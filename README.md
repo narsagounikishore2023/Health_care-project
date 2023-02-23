@@ -1,4 +1,4 @@
-# Health_care-project
+# Health_care_project
 # Project objective:
   Create a model to predict patient is Diabetic or not.
 # Process
